@@ -1,0 +1,25 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.left li {
+  float: left;
+  margin: 5px;
+}
+
+.right li {
+  float: right;
+  margin: 5px;
+}
+
+.logo {
+  text-align: center;
+  padding: 100px;
+}
+
+.search {
+  text-align: center;
+}
